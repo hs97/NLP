@@ -1,0 +1,7 @@
+twinkle/VERB ,/. twinkle/VERB ,/. little/ADJ star/NOUN
+how/ADV I/PRON wonder/VERB what/PRON you/PRON are/VERB
+up/PREP above/PREP the/DET world/NOUN so/ADV high/ADJ
+like/PREP a/DET diamond/NOUN in/PREP the/DET sky/NOUN
+when/CONJ blazing/ADJ sun/NOUN is/VERB gone/VERB
+when/CONJ he/PRON nothing/NOUN is/VERB shining/VERB upon/PREP
+then/ADV you/PRON show/VERB your/PRON little/ADJ light/NOUN
